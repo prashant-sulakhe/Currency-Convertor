@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+
+#swap:hover{
+    background-color: #fda5d5;
+    color: black;
+}
+#convert:active{
+    background-color: #fda5d5;
+    color: black;
+}
